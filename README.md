@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For Summer Internships.<br>🌱 I’m Currently Exploring Machine Learning.<br>🤔 Worked as a Research Intern at SSERD.<br>💬 Ask me about Data Structures and Algorithms.<br>📫 How to reach me: https://www.linkedin.com/in/mrigank-raj/<br>😄 Pronouns: He/Him/His<br>
+🔭 Building BlockX.<br>🌱 Currently Exploring Computational Physics and AI / ML.<br>🤔 Previously Worked @ Scaler, ScummVm, Atsign, CodeChef.<br>💬 Ask me about Data Structures and Algorithms.<br>📫 How to reach me: https://www.linkedin.com/in/mrigank-raj/<br>😄 Pronouns: He/Him/His<br>
 
 
 ## 🌐 Socials:
